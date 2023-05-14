@@ -1,8 +1,7 @@
-# 💫 About Me:
-Self-taught
+# 👤 About me:
+Self-taught, beginner, like to find friends. 🍕 🌨️ 🌌 🌑 🎨 📚
 
-
-## 🌐 Socials:
+## 🌐 🤝 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamidaazad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamidaazad) 
 
 # 💻 Tech Stack:
